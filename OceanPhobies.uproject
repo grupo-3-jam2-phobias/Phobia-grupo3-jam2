@@ -10,6 +10,38 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "NullSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "LinuxDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleImageUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
 		}
 	],
 	"TargetPlatforms": [
